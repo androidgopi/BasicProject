@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SamplePro</string>
+
+    <string name="username_hint">Enter User Id / Cell Phone</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="sign_in">Login</string>
+    <string name="forgot_pwd">Forgot Password ?</string>
+</resources>

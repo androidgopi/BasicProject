@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BC1B3C</color>
+    <color name="colorPrimaryDark">#961D46</color>
+    <color name="colorAccent">#A9A9A9</color>
+    <color name="status_item_bg">#E5E5E5</color>
+    <color name="loadnumber_bg">#D6D6D6</color>
+    <color name="tile_color">#FF9331</color>
+    <color name="blur_btn_color">#D9E18790</color>
+    <color name="load_detials_text_color">#AD1F2D</color>
+    <color name="blur_white_color">#D9FFFFFF</color>
+
+    <color name="load_txt_color">#004056</color>
+    <color name="icon_color">#566181</color>
+    <color name="color_gray">#5A5A5A</color>
+    <color name="color_black">#000000</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_green">#12CD0E</color>
+    <color name="deep_green">#004059</color>
+    <color name="color_transparent_white">#00FFFFFF</color>
+    <color name="tile_text_bg_color">#F7F7F7</color>
+    <color name="tab_notselected_color">#DEDADB</color>
+
+    <color name="color_driver_name_txt">#303030</color>
+    <color name="status_disabled_color">#BFFFFFFF</color>
+    <color name="expedite_blue">#3552a2</color>
+    <color name="expedite_blue_gray">#D98a9fd8</color>
+
+    <color name="blue">#0078c8</color>
+    <color name="green">#00AD66</color>
+    <color name="toast_bg_gray">#DC5A5A5A</color>
+    <color name="home_gray">#F1F1F1</color>
+    <color name="gray">#A9A9A9</color>
+    <color name="small_bar_gray">#CACACA</color>
+    <color name="white">#ffffff</color>
+
+</resources>
